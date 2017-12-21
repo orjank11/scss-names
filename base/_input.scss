@@ -1,0 +1,28 @@
+input[type="text"],
+input[type="email"],
+input[type="birthdate"],
+input[type="tel"],
+input[type="password"],
+input[type="number"] {
+  &:hover {}
+  &:focus {}
+  &:active {}
+  &:disabled {}
+}
+
+input[type="checkbox"] {
+  &:hover {}
+  &:checked {}
+}
+
+input[type="radio"] {
+  &:hover {}
+  &:checked {}
+}
+
+input[type="submit"] {
+  &:hover {}
+  &:focus {}
+  &:active {}
+  &:disabled {}
+}
